@@ -3,6 +3,6 @@ Code repository for M.Sc. Computer Science Dissertation at Trinity College Dubli
 
 Implemented Bayesian Neural Network (BNN) with Catalytic Prior encoding domain expertise for two use-cases - Half Moons Dataset and Physiological Dataset involving EDA Signals
 
-Author: Abhik Subir Bhattacharjee
-Student ID: 22305544
-Thesis Supervisor: Dr. Andrea Patane
+Author: Abhik Subir Bhattacharjee <br />
+Student ID: 22305544 <br />
+Thesis Supervisor: Dr. Andrea Patane <br />
